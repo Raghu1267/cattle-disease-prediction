@@ -1,5 +1,4 @@
 streamlit
-tensorflow-cpu==2.17.0
+onnxruntime
 opencv-python-headless
 numpy
-gdown
